@@ -12,6 +12,7 @@ KDD- Medium link:
 
 **📚 Data Science Methodologies - CRISP-DM, KDD, SEMMA**
 
+
 🌟 Introduction
 Welcome to the enchanting world of data science methodologies! This repository dives deep into three major methodologies that every data wizard should know: CRISP-DM, KDD, and SEMMA. Let's set sail on this journey of structured data analysis and discovery! 
 
@@ -27,6 +28,7 @@ Deployment 🚀: Send your magic out into the world!
 
 **2. KDD: Knowledge Discovery in Databases**
 
+
 KDD is all about being a detective in the vast world of data:
 
 Selection : Choose the data mysteries you want to solve.
@@ -36,6 +38,7 @@ Data Mining : Dig deep and find those hidden patterns!
 Interpretation/Evaluation : What did we discover? Is it valuable?
 
 **3. SEMMA: Sample, Explore, Modify, Model, Assess**
+
 
 SEMMA is like a telescope that helps us zoom in on the data universe:
 
