@@ -4,7 +4,7 @@ The medium articles are linked below:
 
 **CRISP-DM Medium link:** https://medium.com/@sureshravuri07/analyzing-used-car-prices-with-crisp-dm-33b3cc210259
 
-**SEMMA Medium link:**
+**SEMMA Medium link:** https://medium.com/@sureshravuri07/understanding-the-semma-process-using-the-wine-dataset-a8e4fe988d9e
 
 **KDD Medium link:** https://medium.com/@sureshravuri07/analyzing-the-world-adult-income-dataset-kdd-analysis-4020b8008114
 
